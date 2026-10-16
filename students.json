@@ -1,0 +1,26 @@
+[
+  {
+    "roll": 1,
+    "name": "alex",
+    "branch": "cse",
+    "semester": 1,
+    "cgpa": 10.0,
+    "attendance": 80.0
+  },
+  {
+    "roll": 2,
+    "name": "john",
+    "branch": "ece",
+    "semester": 1,
+    "cgpa": 7.52,
+    "attendance": 74.0
+  },
+  {
+    "roll": 3,
+    "name": "mark",
+    "branch": "entc",
+    "semester": 1,
+    "cgpa": 7.11,
+    "attendance": 99.0
+  }
+]
